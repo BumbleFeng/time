@@ -1,1 +1,1 @@
-env
+yarn build
