@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React From time
+          Learn React From Feng
         </a>
       </header>
     </div>
