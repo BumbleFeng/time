@@ -1,3 +1,2 @@
-env
-
+yarn
 yarn build
